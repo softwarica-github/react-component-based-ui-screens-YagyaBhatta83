@@ -1,0 +1,19 @@
+{
+  "name": "react-component-based-ui-screens-yagyabhatta83",
+  "version": "1.0.0",
+  "description": "UI in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softwarica-github/react-component-based-ui-screens-YagyaBhatta83.git"
+  },
+  "author": "yagya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softwarica-github/react-component-based-ui-screens-YagyaBhatta83/issues"
+  },
+  "homepage": "https://github.com/softwarica-github/react-component-based-ui-screens-YagyaBhatta83#readme"
+}
